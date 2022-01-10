@@ -223,6 +223,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
+    margin-right: calc(((100% - 340px) / 2) + 99px);
     margin-left: calc(((100% - 340px) / 2));
   }
 
@@ -336,14 +337,14 @@
   }
 } .u-section-3 {
   background-image: none;
-  min-height: 2770px;
+  min-height: 2800px;
 }
 
 .u-section-3 .u-gallery-1 {
   height: 2771px;
   grid-gap: 17px 17px;
   margin-top: 20px;
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
 
 .u-section-3 .u-gallery-inner-1 {
@@ -505,8 +506,8 @@
   .u-section-4 .u-gallery-1 {
     height: 1120px;
     width: 340px;
-    margin-right: undefined;
-    margin-left: undefined;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-4 .u-gallery-inner-1 {
@@ -587,13 +588,13 @@
   }
 } .u-section-6 {
   background-image: none;
-  min-height: 736px;
+  min-height: 766px;
 }
 
 .u-section-6 .u-gallery-1 {
   height: 736px;
   grid-gap: 17px 17px;
-  margin-top: 0;
+  margin-top: 30px;
   margin-bottom: 0;
 }
 
@@ -609,7 +610,7 @@
 
 @media (max-width: 1199px) {
    .u-section-6 {
-    min-height: 607px;
+    min-height: 637px;
   }
 
   .u-section-6 .u-gallery-1 {
@@ -624,11 +625,10 @@
 
 @media (max-width: 991px) {
    .u-section-6 {
-    min-height: 485px;
+    min-height: 495px;
   }
 
   .u-section-6 .u-gallery-1 {
-    margin-top: 20px;
     margin-bottom: -10515px;
     height: 465px;
   }
@@ -636,7 +636,7 @@
 
 @media (max-width: 767px) {
    .u-section-6 {
-    min-height: 369px;
+    min-height: 379px;
   }
 
   .u-section-6 .u-gallery-1 {
@@ -647,7 +647,7 @@
 
 @media (max-width: 575px) {
    .u-section-6 {
-    min-height: 240px;
+    min-height: 250px;
   }
 
   .u-section-6 .u-gallery-1 {
@@ -656,13 +656,13 @@
   }
 } .u-section-7 {
   background-image: none;
-  min-height: 736px;
+  min-height: 766px;
 }
 
 .u-section-7 .u-gallery-1 {
   height: 736px;
   grid-gap: 17px 17px;
-  margin-top: 0;
+  margin-top: 30px;
   margin-bottom: 0;
 }
 
@@ -678,7 +678,7 @@
 
 @media (max-width: 1199px) {
    .u-section-7 {
-    min-height: 607px;
+    min-height: 637px;
   }
 
   .u-section-7 .u-gallery-1 {
