@@ -214,13 +214,11 @@
 
 .u-section-3 .u-text-2 {
   font-weight: 700;
-  width: 439px;
-  margin: 20px auto 0;
+  margin: 20px 0 0 81px;
 }
 
 .u-section-3 .u-text-3 {
-  width: 439px;
-  margin: 21px auto 0;
+  margin: 21px 0 0 81px;
 }
 
 .u-section-3 .u-btn-1 {
@@ -235,6 +233,14 @@
   .u-section-3 .u-group-1 {
     width: calc(((100% - 940px) / 2) + 621px);
     height: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 439px;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: 439px;
   }
 }
 
